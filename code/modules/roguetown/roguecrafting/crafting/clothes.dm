@@ -171,6 +171,42 @@
 	verbage_simple = "tied"
 	verbage = "ties"
 
+/datum/crafting_recipe/roguetown/survival/flowercrown_matricaria
+	name = "matricaria crown"
+	category = "Clothes"
+	result = /obj/item/flowercrown/matricaria
+	reqs = list(
+		/obj/item/alch/matricaria = 4,
+		/obj/item/natural/fibers = 2,
+		)
+	craftdiff = 0
+	verbage_simple = "tied"
+	verbage = "ties"
+
+/datum/crafting_recipe/roguetown/survival/flowercrown_calendula
+	name = "calendula crown"
+	category = "Clothes"
+	result = /obj/item/flowercrown/calendula
+	reqs = list(
+		/obj/item/alch/calendula = 4,
+		/obj/item/natural/fibers = 2,
+		)
+	craftdiff = 0
+	verbage_simple = "tied"
+	verbage = "ties"
+
+/datum/crafting_recipe/roguetown/survival/flowercrown_briar
+	name = "briar thorn crown"
+	category = "Clothes"
+	result = /obj/item/flowercrown/briar
+	reqs = list(
+		/obj/item/natural/fibers = 2,
+		/obj/item/natural/thorn = 4,
+		)
+	craftdiff = 0
+	verbage_simple = "tied"
+	verbage = "ties"
+
 /datum/crafting_recipe/roguetown/survival/briarthorns
 	name = "briar thorns"
 	category = "Clothes"
