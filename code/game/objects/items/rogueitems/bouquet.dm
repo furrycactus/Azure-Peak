@@ -70,6 +70,11 @@
 	item_state = "calendula_crown"
 	icon_state = "calendula_crown"
 
+/obj/item/flowercrown/manabloom
+	name = "crown of manabloom"
+	item_state = "manabloom_crown"
+	icon_state = "manabloom_crown"
+
 /obj/item/flowercrown/briar
 	name = "crown of briar thorns"
 	desc = "The pain of wearing it might distract you from the whispers of a mad God overpowering your sanity..."

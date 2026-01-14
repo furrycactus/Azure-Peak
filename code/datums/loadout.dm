@@ -146,6 +146,10 @@ GLOBAL_LIST_EMPTY(loadout_items)
 	name = "Calendula Crown"
 	path = /obj/item/flowercrown/calendula
 
+/datum/loadout_item/manabloom_crown
+	name = "Manabloom Crown"
+	path = /obj/item/flowercrown/manabloom
+
 /datum/loadout_item/briar_crown
 	name = "Briar Thorn Crown"
 	path = /obj/item/flowercrown/briar
